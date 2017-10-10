@@ -1,0 +1,13 @@
+{
+  "lib": [
+    "dom",
+    "es5",
+    "es2015.promise"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "jsx": "react"
+  }
+}
