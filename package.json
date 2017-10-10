@@ -18,7 +18,6 @@
   "author": "Andika Patria Respati",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
     "bootstrap-sass": "^3.3.7",
     "cross-env": "^5.0.1",
     "jquery": "^3.1.1",
